@@ -11,6 +11,8 @@ Please note: I'm not responsible for any compromised accounts.
 ## Installing
 You can just install the Chrome Extension from [here](https://chrome.google.com/webstore/detail/cr-unblocker/agapeeilkibacbfeijlidlgppmjaaijn).
 
+The Edge Extension can be installed from [here](https://www.microsoft.com/store/apps/9PF520KDMZRZ).
+
 ## Setting is up yourself
 If you are really concerned about security you can run it yourself. I will give you a brief tutorial here but can't help you with every little detail:
 
